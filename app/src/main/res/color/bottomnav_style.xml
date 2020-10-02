@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    warna yang diinginkan saat menu terpilih-->
+    <item android:color="#FFBD50" android:state_checked="true"/>
+<!--    saat menu tidak terpilih-->
+    <item android:color="@color/colorPrimaryDark"/>
+
+</selector>
